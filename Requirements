@@ -1,1 +1,3 @@
-
+INTRODUCTION:
+     The mini-project “Employee Record System” is a console application using the C programming language.This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Employee Record like adding the employee info,list the employee records,modify the records and also delete the records.  
+      
