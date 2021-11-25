@@ -4,3 +4,4 @@
 <a href="https://app.codiga.io/public/user/github/Sathyamano30">
    <img src="https://api.codiga.io/public/badge/user/github/Sathyamano30?style=light" alt="codiga badge" />
 </a>
+[![Unit Testing - Unity](https://github.com/Sathyamano30/M1_Application_Employee-record-system/actions/workflows/unity.yml/badge.svg)](https://github.com/Sathyamano30/M1_Application_Employee-record-system/actions/workflows/unity.yml)
